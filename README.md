@@ -1,9 +1,4 @@
----
-layout: page
-title: "Policy"
----
-
-# Privacy Policy
+# Policy
 
 **Effective Date:** _[Insert Date]_
 
